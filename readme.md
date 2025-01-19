@@ -1,4 +1,4 @@
-# Lab02-HomeSecurityBill
+<!--# Lab02-HomeSecurityBill -->
 
 ## Synopsis
 This project is a Home Security Bill Calculator for YFinity Security Systems. It allows users to input customer details, the number of cameras, and the contract length to calculate the monthly price and total contract value for the security system.
@@ -44,3 +44,6 @@ Lab02-HomeSecurityBill/
 │   │   │       └── output.png
 ├── readme.md
 </pre>
+
+### - Author Harry Joseph [Github](https://github.com/hjoseph777)
+### - January 19, 2025
